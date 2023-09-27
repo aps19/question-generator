@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+seaborn
+torch
+torchaudio
+transformers
+sentencepiece
+streamlit
+setuptools wheel
+spacy[transformers]
